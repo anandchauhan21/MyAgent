@@ -1,0 +1,10 @@
+26/1 2:26 AM
+Installation done 
+pip install langchain openai chromadb tiktoken duckduckgo-search streamlit
+2:51
+  pane change going with lama3 --> agent0.1
+https://console.groq.com/home
+4:09 
+  connection with LLm done making ngrk id for serve it 
+current mode 
+- llm = ChatGroq(model="llama-3.3-70b-versatile")
