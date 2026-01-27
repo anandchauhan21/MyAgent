@@ -8,3 +8,7 @@ https://console.groq.com/home
   connection with LLm done making ngrk id for serve it 
 current mode 
 - llm = ChatGroq(model="llama-3.3-70b-versatile")
+28/1 1:17 AM
+working on agent2 
+- voice-assistant 
+- WEBRtc 
